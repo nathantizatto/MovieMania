@@ -1,0 +1,23 @@
+/* Home.css */
+.swiper-container {
+    position: relative; /* Necessário para o posicionamento absoluto do título */
+    width: 100%;
+    width: 80%; /* Ajuste conforme necessário */
+    margin: 0 auto; /* Centraliza o contêiner */
+  }
+
+  .swiper-header{
+    margin-bottom: 2rem;
+  }
+
+  .foot{
+    margin: 0 auto;
+    width: 80%;
+    text-align: center;
+    padding: 5%;
+  }
+
+  
+  
+  
+  

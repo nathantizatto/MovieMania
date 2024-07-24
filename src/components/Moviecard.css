@@ -1,0 +1,8 @@
+.moviecard{
+    display: flex;
+    flex-direction: column;
+    gap: .3rem;}
+
+.originaltitle{
+    color: rgb(129, 136, 142);
+}
